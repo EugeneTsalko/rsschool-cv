@@ -60,6 +60,15 @@ function likes(names) {
 ---
 
 
+## Projects 
+* [Portfolio landing page](https://eugenetsalko.github.io/portfolio/)
+* [Random jokes](https://eugenetsalko.github.io/random-jokes/)
+* [Tic-tac-toe](https://eugenetsalko.github.io/tic-tac-toe/)
+
+
+---
+
+
 ## Experience
 * Deputy chief accountant (2015-2022)
 * Individual entrepreneur (2017-2019) - tax consulting
@@ -67,6 +76,22 @@ function likes(names) {
 
 
 ---
+
+
+## Education and courses
+* University: Belarusian State Economic University
+* Skillbox: Introduction to programming
+* HTML Academy: WEB-development basics
+* CS50 (_in process..._)
+* EPAM (LEARN digital platform)
+   * Computer science basics
+   * Software development methodologies (_in process..._)
+* RS School: JS/FE #stage0 
+   * JS/FE #stage0
+   * JS/FE #stage1 (_in process..._)
+
+
+----
 
 
 ## Languages
